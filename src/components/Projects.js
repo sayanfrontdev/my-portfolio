@@ -91,11 +91,48 @@ export const Projects = () => {
                       </Row>
                     </Tab.Pane>
                     <Tab.Pane eventKey="second">
-                      <p>Upcoming....</p>
+                    <div className="edu" style={{display:'flex',justifyContent:'center',alignItems:'center',color:'#B8B8B8'}}>
+                    <ul>
+                   <li><p>Has Done 10th from Midnapore Collegiate School (H.S) in 2017 with 65% marks
+</p></li>
+                    
+                   
+                    <li><p>Has Done 12th from Midnapore Town School (H.S) in 2019 with 60% marks
+</p></li>
+                    
+                    <li><p>Recently Completed B.Tech from Netaji Subhash Engineering College in Mechanical Engineering 
+
+</p></li>
+                    </ul>
+                      </div>
                     </Tab.Pane>
                     <Tab.Pane eventKey="third">
-                      <p>Upcoming....</p>
-                    </Tab.Pane>
+                    <div className="ex" style={{display:'flex',justifyContent:'center',alignItems:'center',color:'#B8B8B8'}}>
+                    <ul>
+        
+        <p>Titagarh Wagons Ltd.</p>
+    
+    
+        <p>Design and marketing analysis of railway wagons and its related components</p>
+  
+    <li>
+        <p>Worked on drawing, design, and technical presentation of various Railway wagon and components.</p>
+    </li>
+    <li>
+        <p>Assisted the mechanical engineering team in designing various railway wagons and components.</p>
+    </li>
+    <li>
+        <p>Worked on creating technical drawings and specifications for the railway wagons and components using CAD software.</p>
+    </li>
+    <li>
+        <p>Conducted research on industry standards, safety regulations, and performance requirements related to railway engineering.</p>
+    </li>
+</ul>
+                    </div>
+    
+    
+</Tab.Pane>
+
                   </Tab.Content>
                 </Tab.Container>
               </div>}
