@@ -58,7 +58,7 @@ export const Banner = () => {
                 <span className="tagline">Welcome to my Portfolio</span>
                 <h1>{`Hi! I'm Sayan`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "React Developer", "Web Designer", "Backend Designer" ]'><span className="wrap">{text}</span></span></h1>
                   <p>"Design is not just what it looks like and feels like. Design is how it works,turning design into reality, one line of code at a time."</p>
-                  <a href="https://drive.google.com/file/d/1EeXq0usEN1AW1QLhoa_Q_jemT5mcvGqW/view?usp=sharing"><button className="tagline">View CV <ArrowRightCircle size={25} /></button>
+                  <a download href={require("../assets/img/Sayan-CV.pdf")}><button className="tagline">View CV <ArrowRightCircle size={25} /></button>
                   </a>
                   
               </div>}

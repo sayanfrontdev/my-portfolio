@@ -17,19 +17,19 @@ export const Projects = () => {
       title: "Portfolio Design",
       description: "In designing my own portfolio, I approached the project with the same level of creativity and attention to detail that I bring to my frontend development work.",
       imgUrl: projImg1,
-      link: "https://sayanmanda.github.io/Imsayan.github.io/"
+      link: "https://imsayan.vercel.app/"
     },
     {
       title: "E-commerce Website",
       description: "One of the most rewarding challenges I've tackled as a frontend developer was the design and development of an innovative ecommerce platform. In this project, I had the opportunity to merge my technical prowess with my passion for creating captivating online shopping experiences.",
       imgUrl: projImg2,
-      link:"https://storehook-online-store.netlify.app/"
+      link:"https://storehook-stores.vercel.app/"
     },
     {
       title: "E-learning Website",
       description: "One of the standout projects in my portfolio is my work on an eLearning platform, where I had the privilege of merging my passion for frontend development with the realm of education. ",
       imgUrl: projImg3,
-      link: "https://sayanmanda.github.io/e-learning/"
+      link: "https://e-learning-blush-nu.vercel.app/"
     },
     {
       title: "Real Estate Website",
